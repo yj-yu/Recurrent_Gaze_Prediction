@@ -1,0 +1,3 @@
+[submodule "salicon-evaluation"]
+	path = ext/salicon-evaluation
+	url = https://github.com/NUS-VIP/salicon-evaluation
